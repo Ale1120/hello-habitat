@@ -1,5 +1,5 @@
 pkg_name=hello
-pkg_origin=cnunciato
+pkg_origin=alejandro
 pkg_version="0.1.0"
 pkg_deps=(core/node)
 
